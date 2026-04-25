@@ -1,0 +1,17 @@
+# Data and Models
+backend/data/
+backend/data_preextracted/
+backend/models/*.pt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Frontend
+node_modules/
+dist/
+.env
+
+# OS
+.DS_Store
